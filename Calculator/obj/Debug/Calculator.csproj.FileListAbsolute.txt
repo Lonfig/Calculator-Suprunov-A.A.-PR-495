@@ -1,0 +1,8 @@
+C:\Users\Lonfig\OneDrive\Рабочий стол\EzCalculator-master\EzCalculator\obj\Debug\EzCalculator.Form1.resources
+C:\Users\Lonfig\OneDrive\Рабочий стол\EzCalculator-master\EzCalculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Lonfig\OneDrive\Рабочий стол\EzCalculator-master\EzCalculator\bin\Debug\Calculator.exe.config
+C:\Users\Lonfig\OneDrive\Рабочий стол\EzCalculator-master\EzCalculator\bin\Debug\Calculator.exe
+C:\Users\Lonfig\OneDrive\Рабочий стол\EzCalculator-master\EzCalculator\bin\Debug\Calculator.pdb
+C:\Users\Lonfig\OneDrive\Рабочий стол\EzCalculator-master\EzCalculator\obj\Debug\Сalculator.Properties.Resources.resources
+C:\Users\Lonfig\OneDrive\Рабочий стол\EzCalculator-master\EzCalculator\obj\Debug\Calculator.exe
+C:\Users\Lonfig\OneDrive\Рабочий стол\EzCalculator-master\EzCalculator\obj\Debug\Calculator.pdb
